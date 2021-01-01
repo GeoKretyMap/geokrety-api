@@ -13,7 +13,7 @@ envparse==0.2.0
 raven[flask]==6.10.0
 flask-jwt==0.3.2
 pytz==2018.9
-mysqlclient==1.4.2
+mysqlclient==2.0.3
 factory_boy==2.11.1
 git+https://github.com/exavolt/python-phpass.git#egg=python-phpass
 bcrypt==3.1.6
