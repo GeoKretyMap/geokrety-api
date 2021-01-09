@@ -9,5 +9,5 @@ coverage==4.5.2
 dredd_hooks==0.2.0
 codacy-coverage==1.3.11
 nose-watcher==0.1.3
-parameterized==0.7.0
+parameterized==0.8.1
 Flask-WebTest==0.0.9
