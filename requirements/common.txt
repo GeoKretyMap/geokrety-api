@@ -12,7 +12,7 @@ wtforms==2.2.1
 envparse==0.2.0
 raven[flask]==6.10.0
 flask-jwt==0.3.2
-pytz==2018.9
+pytz==2021.1
 mysqlclient==1.4.2
 factory_boy==2.11.1
 git+https://github.com/exavolt/python-phpass.git#egg=python-phpass
