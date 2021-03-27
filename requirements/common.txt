@@ -3,7 +3,7 @@ geokrety-api-models==0.0.4
 git+https://github.com/geokrety/flask-rest-jsonapi.git@geokrety2#egg=flask-rest-jsonapi
 git+https://github.com/geokrety/flask.git@issue-2900#egg=Flask&version=1.0.2
 marshmallow-jsonapi==0.21.0
-gunicorn==19.9.0
+gunicorn==20.1.0
 Flask-SQLAlchemy==2.3.2
 flask-cors==3.0.7
 Flask-OAuthlib==0.9.5
