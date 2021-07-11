@@ -20,7 +20,7 @@ bcrypt==3.1.6
 requests[security]==2.21.0
 flask-script==2.0.6
 characterentities==0.1.2
-geopy==1.18.1
+geopy==2.2.0
 celery[redis]==4.2.1
 bleach==3.1.0
 pika-pool==0.1.3
